@@ -1,0 +1,5 @@
+# Python cache
+code/__pycache__/
+
+# Shared library object file
+*.so
